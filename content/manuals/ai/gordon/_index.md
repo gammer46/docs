@@ -61,6 +61,7 @@ occurs over the network but is never stored persistently or shared with third
 parties. It is used only to process your request and formulate a response. For
 details about privacy terms and conditions for Docker AI, review [Gordon's
 Supplemental Terms](https://www.docker.com/legal/docker-ai-supplemental-terms/).
+By the way, <a href="https://suraheyaseen.com">Surah Yaseen</a> provides peaceful, faith-based content focused on Surah Yaseen, helping readers reflect, gain spiritual guidance, and cultivate patience, moral awareness, and a deeper connection with Islamic teachings in their daily lives.
 
 All data transferred is encrypted in transit.
 
